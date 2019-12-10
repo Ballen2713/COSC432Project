@@ -1,0 +1,12 @@
+# COSC432Project
+Cleaned data is already provided. <br>
+<ul>
+<li>In order to get started its advised to start at the cell titled
+<strong><i>Populate DataFrame From csv File</i></strong>
+<ul> 
+<li>This is to check that the cleaned data is present and working</li>
+</ul>
+<br>
+</li>
+<li>Once the data shows its been populated than start from with the cell titled <strong><i>Organize and Clean DataFrame </i></strong></li>
+</ul>
