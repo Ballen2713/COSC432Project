@@ -10,3 +10,7 @@ Cleaned data is already provided. (<strong>Named:</strong> data_set_replace) <br
 </li>
 <li>Once the data shows its been populated than start from with the cell titled <strong><i>Organize and Clean DataFrame </i></strong></li>
 </ul>
+
+## Code References
+* http://adventuresinmachinelearning.com/neural-networks-tutorial/#creating-nn (Conceptual Understanding) 
+* https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6 (Model/Implementation) 
